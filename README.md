@@ -42,7 +42,7 @@ KirbySamuraiDuel/
 
 ## 🚀 Try it out!!
 
-> https://CosMoxTheLegend.github.io/KirbySamuraiDuel
+> https://Praduamn.github.io/KirbySamuraiDuel
 
 ## 🛠️ Built With
 
